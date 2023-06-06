@@ -1,7 +1,7 @@
 from random import randint
 
 r = randint(1, 100)
-z = int(input("ENter the number of tries you want"))
+z = int(input("ENter the number of tries you have paid for"))
 count = 1
 
 while count <= z:
